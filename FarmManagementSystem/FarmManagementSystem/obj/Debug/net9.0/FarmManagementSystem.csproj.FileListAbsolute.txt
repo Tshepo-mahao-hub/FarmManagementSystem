@@ -1,0 +1,14 @@
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\bin\Debug\net9.0\FarmManagementSystem.exe
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\bin\Debug\net9.0\FarmManagementSystem.deps.json
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\bin\Debug\net9.0\FarmManagementSystem.runtimeconfig.json
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\bin\Debug\net9.0\FarmManagementSystem.dll
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\bin\Debug\net9.0\FarmManagementSystem.pdb
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.AssemblyInfo.cs
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.dll
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\refint\FarmManagementSystem.dll
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.pdb
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\FarmManagementSystem.genruntimeconfig.cache
+C:\Users\Tshepo\Downloads\Question 2\ConsoleApp2\FarmManagementSystem\obj\Debug\net9.0\ref\FarmManagementSystem.dll
