@@ -7,7 +7,11 @@ The Farm Management System is a web-based application developed to help farms ef
 The application allows administrators to maintain accurate animal records, while farmers can easily view animal information through a simple and user-friendly interface.
 
 ---
+# Project Objective
 
+The objective of this project was to strengthen my understanding of ASP.NET Core MVC, Entity Framework Core, SQL Server, and Object-Oriented Programming by developing a secure database-driven web application with user authentication and CRUD functionality.
+
+---
 ## Features
 
 ### Administrator
